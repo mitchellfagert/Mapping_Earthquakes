@@ -16,3 +16,16 @@ Throughout this project, we learned how to create map layers, visual customizati
   * Software: HTML/CSS, JavaScript, Visual Studio Code 1.49.1, Leaflet 1.7.1, D3.js 6.2.0
   
  ## Results
+The deployed webpage is accessible [here](https://mitchellfagert.github.io/).
+
+**Interactive Map Views**
+
+
+*Streets view*
+<img width="668" alt="Street_view" src="https://user-images.githubusercontent.com/107579508/201744336-ab04e3b5-399d-4eac-a0fa-fc839e17f538.png">
+
+*Satellite view*
+<img width="665" alt="Satellite_view" src="https://user-images.githubusercontent.com/107579508/201744354-aeb8110c-7c26-4f1f-997d-0920f76eafeb.png">
+
+*Dark view*
+<img width="661" alt="Dark_view" src="https://user-images.githubusercontent.com/107579508/201744370-a593a4f8-4ed9-4c69-adf9-3585855c2bb9.png">
